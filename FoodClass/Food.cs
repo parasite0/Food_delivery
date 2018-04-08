@@ -51,11 +51,11 @@ namespace FoodClass
         /// <summary>
         /// Номер дома
         /// </summary>
-        public string HouseNumber { get; set; }
+        public int HouseNumber { get; set; }
         /// <summary>
         /// Номер квартиры
         /// </summary>
-        public string ApartmentNumber { get; set; }
+        public int ApartmentNumber { get; set; }
         public override string ToString()
         {
             return string.Format("{0} {1} {2}", Street, HouseNumber, ApartmentNumber);
