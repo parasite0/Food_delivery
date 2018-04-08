@@ -28,7 +28,7 @@ namespace FoodClass
         /// <summary>
         /// Заказанные блюда
         /// </summary>
-        public string Dishes { get; set; }
+        public List<string> Dishes { get; set; }
         /// <summary>
         /// Номер телефона заказчика
         /// </summary>
@@ -45,18 +45,25 @@ namespace FoodClass
     public class WayPoint
     {
         /// <summary>
-        /// Адрес
+        /// Улица
         /// </summary>
-        public string Address { get; set; }
-
+        public string Street { get; set; }
+        /// <summary>
+        /// Номер дома
+        /// </summary>
+        public string HouseNumber { get; set; }
+        /// <summary>
+        /// Номер квартиры
+        /// </summary>
+        public string ApartmentNumber { get; set; }
         public override string ToString()
         {
-            return string.Format("{0}", Address);
+            return string.Format("{0} {1} {2}", Street, HouseNumber, ApartmentNumber);
         }
 
         public WayPoint Clone()
         {
-            return new WayPoint { Address = Address};
+            return new WayPoint { Street = Street, HouseNumber=HouseNumber, ApartmentNumber=ApartmentNumber };
         }
     }
 }
