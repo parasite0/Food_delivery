@@ -63,7 +63,7 @@ namespace FoodClass
 
         public WayPoint Clone()
         {
-            return new WayPoint { Street = Street, HouseNumber=HouseNumber, ApartmentNumber=ApartmentNumber };
+            return new WayPoint { Street = Street, HouseNumber = HouseNumber, ApartmentNumber = ApartmentNumber };
         }
     }
 }
