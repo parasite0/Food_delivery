@@ -28,7 +28,7 @@ namespace FoodClass
         /// <summary>
         /// Заказанные блюда
         /// </summary>
-        public List<string> Dishes { get; set; }
+        public List<DishesType> Dishes { get; set; }
         /// <summary>
         /// Номер телефона заказчика
         /// </summary>
@@ -65,5 +65,33 @@ namespace FoodClass
         {
             return new WayPoint { Street = Street, HouseNumber = HouseNumber, ApartmentNumber = ApartmentNumber };
         }
+
+    }
+    public class DishesType
+    {
+        public DishesMenu Menu { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0}", Menu);
+        }
+
+        public DishesType Clone()
+        {
+            return new DishesType { Menu = Menu };
+        }
+    }
+    public enum DishesMenu
+    {
+        Pizza,
+        Sushi,
+        Borscht,
+        Barbecue,
+        Chicken,
+        Salad,
+        Kebab,
+        Nuggets,
+        Humburger,
+        Potatoes
     }
 }

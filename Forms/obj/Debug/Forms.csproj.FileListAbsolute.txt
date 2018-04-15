@@ -1,0 +1,14 @@
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\bin\Debug\Forms.exe.config
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\bin\Debug\Forms.exe
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\bin\Debug\Forms.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.exe
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\bin\Debug\FoodClass.dll
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\bin\Debug\FoodClass.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.Form2.resources
+C:\Users\vlad1\Desktop\Git\Food_delivery\Forms\obj\Debug\Forms.csproj.CopyComplete

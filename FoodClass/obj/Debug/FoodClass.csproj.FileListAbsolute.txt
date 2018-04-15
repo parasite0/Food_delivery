@@ -1,0 +1,6 @@
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodClass\bin\Debug\FoodClass.dll
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodClass\bin\Debug\FoodClass.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodClass\obj\Debug\FoodClass.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodClass\obj\Debug\FoodClass.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodClass\obj\Debug\FoodClass.dll
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodClass\obj\Debug\FoodClass.pdb

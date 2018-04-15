@@ -5,3 +5,10 @@ c:\users\vlad1\source\repos\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csp
 c:\users\vlad1\source\repos\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.CoreCompileInputs.cache
 c:\users\vlad1\source\repos\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.exe
 c:\users\vlad1\source\repos\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\bin\Debug\FoodDelivery.exe.config
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\bin\Debug\FoodDelivery.exe
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\bin\Debug\FoodDelivery.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\obj\Debug\FoodDelivery.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\obj\Debug\FoodDelivery.exe
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery\obj\Debug\FoodDelivery.pdb
