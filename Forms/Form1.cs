@@ -27,11 +27,42 @@ namespace Forms
                 Price = numericUpDown1.Value
             };
         }
+        private void SetModelToUI(Food dto)
+        {
+            button4.Enabled = false;
+            dateTimePicker1.Value = dto.Filled;
+            listBox1.Items.Clear();
+            foreach (var e in dto.Dishes)
+            {
+                listBox1.Items.Add(e);
+            }
+            numericUpDown1.Value = dto.Price;
+        }
         private void abc_Click(object sender, EventArgs e)
         {
             
         }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var sfd = new SaveFileDialog() { Filter = "Файлы заказов|*.fd" };
+            var result = sfd.ShowDialog(this);
+            if (result == DialogResult.OK)
+            {
+                var dto = GetModelFromUI();
+                FoodDeliveryHelper.WriteToFile(sfd.FileName, dto);
+            }
+        }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var ofd = new OpenFileDialog() { Filter = "Файл заказа|*.fd" };
+            var result = ofd.ShowDialog(this);
+            if (result == DialogResult.OK)
+            {
+                var dto = FoodDeliveryHelper.LoadFromFile(ofd.FileName);
+                SetModelToUI(dto);
+            }
+        }
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             var dish = listBox1.SelectedItem as DishesType;
