@@ -21,5 +21,9 @@ namespace FoodClass
                 return (Food)food.Deserialize(fileStream);
             }
         }
+        public static Food LoadFromStream(Stream file)
+        {
+            return (Food)food.Deserialize(file);
+        }
     }
 }
