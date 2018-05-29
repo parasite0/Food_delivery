@@ -53,7 +53,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Суши";
             this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            //this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton3
             // 

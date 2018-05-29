@@ -22,7 +22,10 @@ namespace Forms
         {
             return new Food()
             {
+                WayPoints=textBox1.Text,
+                DeliveryTime=dateTimePicker2.Value,
                 Filled = dateTimePicker1.Value,
+                FullName = textBox2.Text,
                 Dishes = listBox1.Items.OfType<DishesType>().ToList(),
                 Price = numericUpDown1.Value
             };
