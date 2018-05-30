@@ -1,0 +1,41 @@
+﻿@model FoodClass.Food
+
+@{
+    ViewBag.Title = "Print";
+}
+
+<h2>Заказ</h2>
+
+<div><p>Время оформления заказа: @Model.Filled</p></div>
+<div><p>ФИО: @Model.FullName</p></div>
+<div><p>Цена: @Model.Price рублей</p></div>
+<div><p>Адрес: @Model.WayPoints</p></div>
+<div><p>Время доставки заказа: @Model.DeliveryTime</p></div>
+
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>
+            Заказанная еда
+        </th>
+    </tr>
+    <tbody>
+
+        @foreach (var e in Model.Dishes)
+        {
+            <div></div>
+
+            <tr>
+
+                <td style="border:1px solid black">
+
+                    <fieldset>
+                        <b>
+                            @e.Menu
+                        </b>
+                    </fieldset>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
