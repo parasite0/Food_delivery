@@ -1,0 +1,10 @@
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\bin\Debug\FoodDelivery.LicenceGenerator.exe.config
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\bin\Debug\FoodDelivery.LicenceGenerator.exe
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\bin\Debug\FoodDelivery.LicenceGenerator.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\bin\Debug\FoodClass.dll
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\bin\Debug\FoodClass.pdb
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\obj\Debug\FoodDelivery.LicenceGenerator.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\obj\Debug\FoodDelivery.LicenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\obj\Debug\FoodDelivery.LicenceGenerator.csproj.CopyComplete
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\obj\Debug\FoodDelivery.LicenceGenerator.exe
+C:\Users\vlad1\Desktop\Git\Food_delivery\FoodDelivery.LicenceGenerator\obj\Debug\FoodDelivery.LicenceGenerator.pdb
