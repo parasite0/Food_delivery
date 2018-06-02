@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.Web", "FoodDelivery.Web\FoodDelivery.Web.csproj", "{BAD19712-C272-4BF5-A1D4-49EFCB94F793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.LicenceGenerator", "FoodDelivery.LicenceGenerator\FoodDelivery.LicenceGenerator.csproj", "{C6D7E453-08E2-422F-89EF-CBC67A903AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BAD19712-C272-4BF5-A1D4-49EFCB94F793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD19712-C272-4BF5-A1D4-49EFCB94F793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD19712-C272-4BF5-A1D4-49EFCB94F793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D7E453-08E2-422F-89EF-CBC67A903AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D7E453-08E2-422F-89EF-CBC67A903AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D7E453-08E2-422F-89EF-CBC67A903AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D7E453-08E2-422F-89EF-CBC67A903AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
